@@ -1,0 +1,38 @@
+[
+    {
+        "img": "https://static.wixstatic.com/media/f38d56_cd451f7ddebd4ea791bea55c9ad59f66~mv2.png/v1/fill/w_256,h_256,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/iPhone-x-Iphone-8-Ipho-7-768x768-768x768.png",
+        "name": "Apple Repair",
+        "cost": "$230",
+        "details": "Get up-to-date information about your Apple products in one place including repairs, tech support cases and much more  replacement displays may have compromised visual quality and may fail to work correctly. Apple-certified screen repairs are performed by trusted experts who use genuine Apple parts. Get up-to-date information about your Apple products in one place including repairs, tech support cases and much more"
+    },
+    {
+        "img": "https://www.myphonecard.co.uk/image/cache/catalog/mobile-repairs/samsung-repairs/samsung-galaxy-s3-broken-lcd-repair-256x256.jpg",
+        "name": "Samsung Repair",
+        "cost": "$130",
+        "details": "Logging in or creating your own Samsung account is the best way to create a repair request to receive our highest level of personalized service. However, you can also create repair requests as a guest for walk-in and in-home service. Currently, the mail service requires the use of a Samsung account. Logging in or creating your own Samsung account is the best way to create a repair request to receive our highest level of personalized service. "
+    },
+    {
+        "img": "https://actionlinkwireless.com/wp-content/uploads/2011/12/86-256x256.jpg",
+        "name": "Motherboard Repair",
+        "cost": "$150",
+        "details": "Sometimes a damaged motherboard may only require a micro-solder repair where we replace the damaged parts of the motherboard with new ones. However, some cases require replacing the entire motherboard, which is more expensive than repairing damaged parts, especially when your phone is out of warranty. motherboard with new ones. However, some cases require replacing the entire damaged motherboard may only requiredamaged motherboard may only require "
+    },
+    {
+        "img": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/l7nzvq44tgyhibnlgu8d",
+        "name": "Unlock Your Region Lock",
+        "cost": "$50",
+        "details": "What is Phone Region Lock, your Mobile ensures that their devices are only used in the market for which they are intended. For example, smartphones you buy in Asia cannot be used in Europe and vice versa. You can cancel the Samsung Region Lock 5-minute phone call with the SIM card from the market for which the phone is intended. In this article, we will tell you about Region Lock and how you can get rid of it. Lock 5-minute phone call"
+    },
+    {
+        "img": "https://www.myphonecard.co.uk/image/cache/catalog/mobile-repairs/iphone-5-battery-replacement-repair-both-256x256.jpg",
+        "name": "Phone Battery Repairing",
+        "cost": "$30",
+        "details": "Battery replacement is a great way to extend the life of an older phone model. Cell phone batteries only last about two years before they begin to degrade. After that, they are prone to charging problems. An old battery can also slow down your phone's performance or even cause it to shut down suddenly Battery replacement is a great way to extend the life of an older phone model. Cell phone batteries only last about two years before they begin to degrade."
+    },
+    {
+        "img": "https://www.myphonecard.co.uk/image/cache/catalog/mobile-repairs/iphone-5-broken-display-repair-256x256.jpg",
+        "name": "Display Repairing",
+        "cost": "$100",
+        "details": "Display Demage If the screen of your phone or tablet has suffered more serious damage, the only option other than getting a new device is a complete operation. Repairing the device's LCD screen is a complex procedure due to the compact internal design option other than getting a new device is a complete operation. Repairing the device's LCD screen is a complex procedure due to the compact internal design display repairenti go  to near me "
+    }
+]
